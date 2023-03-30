@@ -1,4 +1,4 @@
-
+#Cajas de ahorros con porcentaje anual de ganancias
 caja = float (input('Ingrese el monoto de su caja de ahorros: '))
 print('CANTIDAD DE DINERO: ' ,caja,)
 caja += (caja*(4/100))

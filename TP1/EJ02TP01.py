@@ -1,3 +1,4 @@
+#Resolver expresiones algebraicas
 PI =3.14 
 x= float(input('Ingrese el valor de x:  '))
 y= float(input('Ingrese el valor de y:  '))

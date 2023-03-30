@@ -1,3 +1,4 @@
+#Perimetro y Area de un rectangulo
 x=int(input('Ingrese el valor de uno de sus lados: ' ))
 y=int(input('Ingrese el valor de otro de sus lados: '))
 
